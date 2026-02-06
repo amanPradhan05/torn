@@ -3,7 +3,7 @@ use opencv::{
     imgproc,
     prelude::*,
     Result,
-};
+};;
 use opencv::core::AlgorithmHint;
 use opencv::core::Vector;
 use opencv::imgcodecs;
